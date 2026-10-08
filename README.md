@@ -37,9 +37,10 @@ aquí se agregó la verificación `loses:0` y se corrigió en la refactorizació
 
 Resultado: `Tests run: 21, Failures: 0, Errors: 0` – **BUILD SUCCESS**
 
-![Etapa 1](docs/etapa1-tests.png)
-![Etapa 2](docs/etapa2-refactor.png)
-![Etapa 3](docs/etapa3-tests.png)
+<img width="947" height="900" alt="Testing y Clean Code con Java 3" src="https://github.com/user-attachments/assets/f01065ea-ab3e-411e-bd3c-9923ce200997" />
+<img width="947" height="902" alt="Testing y Clean Code con Java 2" src="https://github.com/user-attachments/assets/32f2e502-147d-4bec-8538-9e5bdaabd0ae" />
+<img width="1287" height="992" alt="Testing y Clean Code con Java 1" src="https://github.com/user-attachments/assets/c2bf5610-f31d-4b95-9ede-ec2cf987239a" />
+
 
 ## Jugar
     mvn -q compile
